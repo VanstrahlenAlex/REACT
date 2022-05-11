@@ -1,0 +1,1 @@
+All resources mentioned in the lectures, such as styles, links, etc, can be found in this github repository: https://github.com/MohammadChaabawi/reactjs-pokedex-material-ui-redux-persist-react-router-pokeapi
